@@ -28,3 +28,7 @@ Fill out facts in `data/facts/` specific to your setup.
 Minimum requirements:
 - Initial host exists within a windows domain
 - Remote shared drive is mounted
+
+## Execution
+
+Please read the [full documentation](https://github.com/mitre/caldera/wiki/Plugins-evals) for this plugin.
